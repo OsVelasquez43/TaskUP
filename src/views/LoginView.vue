@@ -48,7 +48,7 @@
       <!-- BOTÓN DE DEBUG - AGREGADO AQUÍ -->
       <div class="debug-info">
         <p class="debug-text">
-          💡 Para testing: <a href="#" @click.prevent="showDebug" class="debug-link">Ver info de debug</a>
+           <a href="#" @click.prevent="showDebug" class="debug-link">Ver info de debug</a>
         </p>
       </div>
     </div>
